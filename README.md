@@ -1,0 +1,3 @@
+# areyoudumb
+
+Are you dumb?
